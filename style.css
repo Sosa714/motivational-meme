@@ -8,6 +8,7 @@ h1{
 }
 
 img{
+    margin-top: 10px;
     border: 2px solid black;
     outline: 5px solid white;;
     height: 25%;
