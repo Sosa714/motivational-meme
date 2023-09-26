@@ -2,11 +2,23 @@ body{
     background-color: black;
 }
 
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
 img{
+    border: 2px solid black;
+    outline: 5px solid white;;
     height: 25%;
     width: 25%;
 }
 
+.poster{
+    text-align: center;
+}
+
 .text{
     color: white;
+    font-family: "Libre Baskerville", serif;
 }
